@@ -1,0 +1,65 @@
+## Black Rot Disease
+
+### Overview
+- **Disease Name:** Black Rot
+- **Causative Agent:** *Guignardia bidwellii*
+- **Impact:** Affects cultivated and wild grapes, especially destructive in warm, wet seasons.
+
+### Affected Crops
+- **Primary:** Grapes (*Vitis vinifera*)
+- **Secondary:** Boston Ivy (*Parthenocissus tricuspidata*), Virginia Creeper (*Parthenocissus quinquefolia*)
+
+### Symptoms
+- **Leaves:**
+  - **Early:** Small reddish-brown spots.
+  - **Advanced:** Irregular reddish-brown blotches with black margins; black pycnidia in lesions.
+- **Fruit:**
+  - **Early:** Small, circular whitish-tan spots.
+  - **Advanced:** Spots expand, berries turn black, hard, and mummified with black pycnidia.
+- **Shoots and Tendrils:**
+  - **Symptoms:** Oval, sunken lesions with purple to black color.
+
+### Disease Life Cycle
+- **Overwintering:** Fungi survive in canes, tendrils, leaves, and on the ground. Mummified berries are primary infection sources.
+- **Infection:** Ascospores spread during rain, germinate in moisture, and penetrate plant tissues. Symptoms appear in 8 to 25 days.
+- **Progression:** Continuous infection in wet conditions; pycnidia transform into pycnosclerotia and perithecia in August.
+
+### Preventive Measures
+- **Breeding for Resistance:** Develop resistant grape varieties (e.g., NY39, NY24, F25P52).
+- **Chemical and Biological Control:**
+  - **Novel Agent:** Uses *Toxicodendron succedaneum* leaf and *Artemisia argyi*.
+- **Cultural Practices:**
+  - **Pruning:** Remove infected parts, combine with fungicide.
+  - **Site Selection:** Full sun, good air circulation.
+  - **Spacing:** Ensure proper airflow around vines.
+  - **Sanitation:** Control weeds, remove debris.
+
+### Treatment Options
+- **Chemical Treatments:** 
+  - **Fungicides:** Pyraclostrobin, myclobutanil, captan, mancozeb, triadimefon, ziram.
+- **Cultural Control:** Drastic pruning, debris removal.
+- **Biological Control:** Use *Bacillus subtilis*, *Trichoderma harzianum*.
+- **Alternative Treatments:** Plant extract agents.
+
+### Fungicides
+- **Strobilurins:** e.g., Pyraclostrobin.
+- **Triazoles:** e.g., Myclobutanil.
+- **Copper-Based Products:** Effective, caution with phytotoxicity.
+- **Captan and Chlorothalonil:** For broad fungal control.
+
+### Organic Treatments
+- **Biological Controls:** Microbial agents, natural antagonists.
+- **Cultural Practices:** Field sanitation, canopy management.
+
+### Environmental Conditions
+- **Soil pH:** Influences fungal disease; specific pH for black rot not detailed.
+- **Temperature and Humidity:** Optimal for black rot:
+  - **Pycnidia Production:** 20-30°C, 90-100% RH.
+  - **Conidia Production:** 15-35°C, 100% RH.
+
+### Impact on Yield
+- **Fruit Loss:** Significant due to destruction and mummification.
+- **Reduced Quality:** Lower fruit quality impacts market value.
+- **Complete Crop Loss:** Possible in severe cases, especially in wet and warm seasons.
+
+---

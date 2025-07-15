@@ -1,0 +1,73 @@
+Principles of Plant Disease Control:
+
+Plant diseases are caused by biotic pathogens like bacteria, fungi, nematodes, and viruses.
+Disease management involves integrated practices targeting the disease triangle components.
+Proper diagnosis is crucial to avoid misidentification and ineffective control measures.
+Causes and Measures for Different Diseases in Crops:
+
+Alfalfa diseases include seedling blights, root and crown rots, and leaf blights.
+To manage alfalfa diseases, use winter-hardy, disease-resistant varieties, high-quality disease-free seed, and well-drained seedbeds.
+Chemical Groups and Fungicide Resistance Risk:
+
+FRAC codes for fungicides on common field crops in Illinois include MBC, DMI, Phenylamides, Carboxamides, QoI, Phenylpyrroles, Multi-site activity.
+Risk of fungicide resistance varies from high to low based on the chemical group.
+Managing Diseases for Alfalfa:
+
+Control alfalfa diseases by growing resistant varieties, using disease-free seed, and providing well-drained seedbeds.
+Contact, locally systemic, and upwardly systemic fungicides can be used for disease management in alfalfa.
+Fertilizers and Planting Practices:
+
+Balanced nitrogen forms can help reduce disease severity in wheat crops.
+Proper planting time, site selection, crop rotation, and fungicide treatments are essential for disease management in wheat.
+
+Corn Diseases and Control Measures:
+Seed Rots and Seedling Blights: Plant high-quality, injury-free seed into soils above 50°F. Proper seedbed preparation and correct placement of fertilizer, herbicides, and insecticides are crucial.
+Stewart’s Bacterial Wilt: Early control of flea beetles can be beneficial for susceptible hybrids. Some insecticide seed treatments may offer this control.
+Goss’s Bacterial Wilt: Rotations of 2 or more years provide excellent control against this disease.
+Helminthosporium Leaf Blights: Foliar fungicide applications may be necessary for susceptible hybrids under favorable disease conditions.
+Gray Leaf Spot: Similar control measures as for Helminthosporium leaf blights may be applicable.
+Physoderma Brown Spot: Control measures include high-quality seed and proper planting practices.
+Yellow Leaf Blight and Eyespot: Similar control strategies as for Helminthosporium leaf blights may apply.
+Anthracnose: Effective control methods include resistant or tolerant varieties, crop rotation, and high-quality seed.
+Common and Southern Rusts: Foliar fungicides may be needed in specific conditions for common rust.
+Common Smut: Prevention involves avoiding mechanical injuries to plants and controlling insects.
+Crazy Top and Sorghum Downy Mildew: Planting resistant sorghums and controlling shattercane are key preventive measures.
+Stalk Rots: Planting adapted hybrids at recommended populations, controlling insects, and scouting for potential losses are essential.
+Ear and Kernel Rots: Control measures include managing stalk rots and leaf blights, selecting hybrids with well-covered ears, and scouting at appropriate moisture levels.
+
+Wheat Diseases and Control Measures:
+Seedling Blights: Effective control methods include planting disease-resistant varieties and high-quality seed.
+Take-All: Planting after the fly-free date and crop rotation are important control measures.
+Stem Rust: Planting disease-resistant varieties is crucial for managing stem rust.
+Leaf Rust: Similar control strategies as for stem rust may be applicable.
+Stripe Rust: Planting resistant varieties is key to managing stripe rust effectively.
+Septoria and Stagonospora Leaf Blotches: Seed treatment can control seedborne infection, and avoiding bin-run seed is recommended.
+Tan Spot: Proper management includes crop rotation and planting disease-resistant varieties.
+Cephalosporium Stripe: Control measures may involve selecting high-quality seed and avoiding bin-run seed.
+Powdery Mildew: Planting disease-resistant varieties and using foliar spray or fungicides can help manage powdery mildew effectively.
+Helminthosporium Spot Blotch: Control methods include planting high-quality seed and using foliar spray or fungicides when necessary.
+Fusarium Head Blight (Scab): Avoiding planting into corn stubble and selecting high-quality seed are important control measures.
+Black Chaff: Planting disease-resistant varieties and avoiding bin-run seed are crucial for managing black chaff effectively.
+Soilborne Wheat Mosaic Virus: Planting after the fly-free date and using balanced fertility practices can help reduce the severity of this disease.
+Wheat Spindle Streak Virus: Planting disease-resistant varieties and using foliar spray or fungicides can aid in managing this virus effectively.
+
+Soybean Diseases and Control Measures:
+Pod and Stem Blight, Anthracnose, Purple Seed Stain, Septoria Brown Spot: The time from maturity to harvest affects disease likelihood, with early-maturing varieties being less affected by brown stem rot.
+Soybean Growth Habit: Tall, bushy varieties may be more susceptible to Sclerotinia stem rot, while shorter varieties may be prone to water-splashed pathogens.
+Planting Dates: Early planting may increase seedling blights and sudden death syndrome incidence.
+Crop Rotation and Tillage: Crucial for controlling most soybean diseases as pathogens depend on crop residues for overwintering.
+Row Spacing: Diseases thrive in cool, wet conditions with rows less than 30 inches potentially increasing disease levels.
+Humidity Influence: Diseases like downy mildew and Sclerotinia stem rot are greatly affected by high humidity.
+Soybean Cyst Nematode: Effective control involves avoiding planting the same variety twice in a field and rotating varieties with different resistance sources.
+
+Choosing Planting Sites and Crop Rotation
+Planting Sites: Select well-drained planting sites to reduce disease risks. Consider the pathogen survival between seasons.
+
+Crop Rotation: Rotate crops to manage diseases effectively. Different crops can help break disease cycles and reduce pathogen buildup.
+
+Solutions for Disease Management
+Resistant Varieties: Choose disease-resistant varieties to combat specific pathogens common in the area.
+
+Proper Fertilization: Maintain balanced fertility levels to reduce disease losses and promote plant health.
+
+Timely Cutting: Cut crops in a timely manner to minimize loss to foliar blights and maintain overall plant health.

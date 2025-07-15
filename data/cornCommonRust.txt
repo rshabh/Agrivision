@@ -1,0 +1,108 @@
+**Disease Name:** Common Rust  
+**Pathogen:** Puccinia sorghi
+
+**Description:**  
+Common rust is a fungal disease affecting corn plants, prevalent in areas with moderate temperatures and high humidity. The pathogen produces spores dispersed by the wind, leading to widespread infection under suitable conditions.
+
+---
+
+### Symptoms
+
+**Early Symptoms:**  
+- Small, circular to elongated lesions on leaves, often in clusters.  
+- Lesions may initially be yellowish with a faint halo.
+
+**Mature Symptoms:**  
+- Lesions become elongated; fungus erupts through the leaf surface.  
+- Characterized by brownish-red oblong pustules that can rub off on fingers.  
+- Lesions are found on both upper and lower leaf surfaces.
+
+**Late Symptoms:**  
+- Pustules darken as black teliospores develop within the lesions.  
+- Both brownish-red and black spores may be present, eventually leading to only black teliospores.
+
+---
+
+### Disease Life Cycle
+
+**Initial Infection:**  
+- Fungus overwinters in tropical and subtropical regions.  
+- In spring, spores are carried by wind to new locations, infecting corn plants.
+
+**Spore Stages:**  
+- The pathogen undergoes multiple spore stages.  
+- Urediniospores spread infection during the growing season.
+
+**Secondary Infections:**  
+- Disease spreads rapidly through additional spore production, leading to repeated infection cycles.
+
+**End of Season:**  
+- Fungus produces black teliospores that become dormant, completing the life cycle.
+
+---
+
+### Preventive Measures
+
+**Genetic Resistance:**  
+- **Resistant Varieties:** Plant resistant corn varieties like Liyu products, Indimyt 345, MI-12, NK-6240, and CP-808.  
+- **Hybrid Selection:** Choose hybrids with high resistance ratings from seed suppliers.
+
+**Cultural Practices:**  
+- **Early Sowing & Weeding:** Reduce favorable conditions for rust development.  
+- **Crop Rotation:** Rotate with non-gramineous crops and remove plant debris.  
+- **Fertilization:** Adjust fertilization practices, reducing nitrogen and increasing phosphorus and potassium.
+
+**Chemical Control:**  
+- **Fungicides:** Use Azoxystrobin, ciproconazole + azoxystrobin, and trifloxystrobin + tebuconazole preventively.  
+- **Application Timing:** Apply early in the disease cycle and consider difenoconazole and tebuconazole for management.
+
+**Field Scouting:**  
+- **Regular Monitoring:** Scout for early signs of rust and track weather conditions favoring rust development.  
+- **Sanitation:** Clean equipment thoroughly to prevent spore spread.
+
+---
+
+### Treatment Options
+
+**Chemical Control:**  
+- **Fungicides:** Tebuconazole, Hexaconazole, and combinations like trifloxystrobin + tebuconazole.  
+- **Application Timing:** Early sprays and repeated applications are effective.
+
+**Biological and Integrated Approaches:**  
+- **Biological Agents:** Use Trichoderma viride with neem and garlic extracts.  
+- **Integrated Disease Management (IDM):** Combine host plant resistance with chemical treatments for better control.
+
+**Genetic Resistance:**  
+- **Quantitative Resistance:** Utilize QTL identified for resistance through marker-assisted selection or genomic selection.
+
+---
+
+### Impact on Yield
+
+**Photosynthesis Reduction:**  
+- Rust lesions decrease functional leaf area, lowering photosynthesis and sugar production.
+
+**Weakened Stalks:**  
+- Reduced sugar leads to weakened stalks and increased risk of stalk rot.
+
+**Poor Kernel Filling:**  
+- Insufficient photosynthesis results in poorly filled kernels and reduced yield.
+
+**Increased Lodging:**  
+- Weakened stalks are prone to lodging, causing harvest losses.
+
+**Timing of Infection:**  
+- Early infections, especially before silking, cause significant yield losses. Later infections have lesser impact.
+
+---
+
+### Environmental Factors
+
+**Weather Conditions:**  
+- **Cool, Moist Weather:** Favors rust development with temperatures between 60-77°F (15-25°C) and high humidity.  
+- **Prolonged Leaf Wetness:** Extended periods of leaf wetness are ideal for fungal growth.  
+- **Hot, Dry Weather:** Suppresses rust development.
+
+**Soil Conditions:**  
+- **Indirect Influence:** Healthy soil supports plant vigor, helping resist infections.  
+- **Dense Plant Populations:** High densities increase humidity, favoring rust development.

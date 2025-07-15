@@ -1,0 +1,117 @@
+Bacterial Spot of Tomato
+-----------------------
+Description:
+Bacterial spot of tomato is caused by the bacteria Xanthomonas vesicatoria, Xanthomonas euvesicatoria, Xanthomonas gardneri, and Xanthomonas perforans. This disease is prevalent in warm, wet climates and can occur in both outdoor fields and greenhouses. The bacteria can be introduced through contaminated seed and transplants and spread via wind-driven rain and splashing water.
+
+Affected Crops:
+
+Tomatoes
+1. Symptoms of Each Disease
+Early Symptoms:
+Seedlings:
+Severe defoliation.
+Mature Plants:
+Leaves:
+Small, water-soaked spots.
+Yellow-green spots that darken to brownish-red.
+Spots may be black, slightly raised, and up to 7.5 mm in diameter.
+Larger leaf blotches, especially on margins.
+Fruit:
+Initially slightly sunken with a water-soaked halo.
+Enlarged spots turn brown, scabby, and rough.
+Spots may be raised or sunken, with raised edges.
+Table 1: Symptoms of Bacterial Spot
+
+Plant Part	Early Symptoms	Advanced Symptoms
+Seedlings	Severe defoliation	-
+Leaves	Water-soaked spots	Black spots, larger blotches
+Fruit	Sunken spots with halo	Brown, scabby spots
+2. Disease Life Cycle
+Development and Spread:
+
+Introduction: Bacterial spot pathogens are introduced via contaminated seed or transplants.
+Infection: Pathogens enter plants through natural openings (stomates) or wounds.
+Spread: Disease is spread by splashing water from rain or irrigation.
+Survival: Pathogens survive in crop debris and on volunteer tomatoes or weeds.
+Development: Disease development is favored by warm (75° to 86°F) and wet conditions.
+Table 2: Disease Life Cycle
+
+Stage	Description
+Introduction	Contaminated seed or transplants
+Infection	Entry through openings and wounds
+Spread	Water splashing, wind-driven rain
+Survival	Crop debris, volunteer tomatoes, weeds
+Development	Warm, wet conditions favor development
+3. Preventive Measures
+Crop Rotation:
+
+Rotate tomatoes with non-host crops every 3 years.
+Work tomato debris into the top 15 cm of soil to aid decomposition.
+Resistant Varieties:
+
+Use pathogen-free seed and disease-free transplants.
+Hygiene:
+
+Avoid sprinkler irrigation.
+Use drip-tape or soaker-hoses instead.
+Sterilize tools with 10% bleach or 70% alcohol.
+Table 3: Preventive Measures
+
+Measure	Details
+Crop Rotation	Rotate with non-host crops every 3 years
+Resistant Varieties	Use pathogen-free seeds and disease-free transplants
+Hygiene	Avoid sprinkler irrigation; use sterilizing solutions
+4. Treatment Options
+Chemical Treatments:
+
+Copper Hydroxide:
+Example: Kocide 3000
+Rate: 0.75–1.75 lb per acre
+Mode of Action: Multi-site contact (M1)
+Copper Hydroxide + Mancozeb:
+Example: Dithane M-45 + Copper Hydroxide
+Rate: 2 lb + 0.75–1.75 lb per acre
+Mode of Action: Multi-site contact (M1 + M3)
+Organic Treatments:
+
+Copper-based formulations.
+Follow manufacturer's instructions for mixing and application.
+Table 4: Treatment Options
+
+Treatment	Product	Rate	Mode of Action
+Copper Hydroxide	Kocide 3000	0.75–1.75 lb per acre	Multi-site contact (M1)
+Copper Hydroxide + Mancozeb	Dithane M-45 + Kocide 3000	2 lb + 0.75–1.75 lb per acre	Multi-site contact (M1 + M3)
+5. Impact on Yield
+Effect on Crop Yield:
+
+Seedlings: Severe defoliation can reduce plant growth and vigor.
+Mature Plants: Extensive leaf spots can lead to reduced photosynthesis and overall plant health, resulting in decreased fruit yield and quality.
+Fruit: Scabby, rough fruit may be unmarketable, affecting profitability.
+Table 5: Impact on Yield
+
+Stage	Impact
+Seedlings	Reduced growth, vigor
+Mature Plants	Decreased yield and quality
+Fruit	Unmarketable due to scabby, rough appearance
+6. Disease-Resistant Crop Varieties
+Varieties with Resistance:
+
+Bacterial Spot: Tomato lines with resistance to multiple races are available.
+Bacterial Speck: Many commercial cultivars have the Pto gene.
+Bacterial Canker: Few commercial varieties show significant tolerance; ongoing research for improved resistance.
+Table 6: Resistant Varieties
+
+Disease	Varieties
+Bacterial Spot	Multiple resistant tomato lines
+Bacterial Speck	Varieties with Pto gene
+Bacterial Canker	Limited tolerance; ongoing research
+7. Environmental Factors
+Influence of Weather and Soil Conditions:
+
+Weather: Warm, wet conditions favor disease development. High humidity and rain increase pathogen spread.
+Soil: Well-drained soil prevents excess moisture, reducing disease incidence. Soil with high organic matter can harbor pathogens.
+Table 7: Environmental Factors
+
+Factor	Influence
+Weather	Warm, wet conditions favor development
+Soil	Well-drained soil reduces incidence; high organic matter can harbor pathogens

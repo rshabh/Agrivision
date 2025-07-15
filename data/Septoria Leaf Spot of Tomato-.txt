@@ -1,0 +1,74 @@
+### Septoria Leaf Spot of Tomato
+
+---
+
+**1. Symptoms of Each Disease**
+
+**Early Diagnosis Symptoms:**
+- **Initial Appearance:** Small, water-soaked, circular spots on the undersides of older leaves (1/16 to 1/8 inch in diameter).
+- **Spot Characteristics:** Centers turn gray to tan with dark brown margins; numerous and distinctively circular spots.
+- **Advanced Symptoms:** Spots enlarge and coalesce; leaves turn yellow, brown, shrivel, and drop off. Presence of small, dark-brown, pimple-like structures called pycnidia in the center of the spots.
+- **Other Affected Parts:** Disease may also appear on petioles, stems, and calyx but is less common.
+
+---
+
+**2. Disease Life Cycle**
+
+- **Inoculum Source:** Fungus *Septoria lycopersici* overwinters in infected tomato debris or Solanaceous weeds.
+- **Spore Production:** Under wet conditions, the fungus produces spores (conidia) in fruiting bodies (pycnidia).
+- **Dispersal:** Spores spread through windblown water, splashing rain, overhead irrigation, hands and clothing, and insects like Colorado potato beetles and aphids.
+- **Infection and Spread:** Spores germinate when free moisture is present on leaves, leading to infection. New pycnidia form, initiating secondary cycles of infection.
+
+---
+
+**3. Preventive Measures**
+
+- **Sanitation:** Remove and destroy infected plant debris after harvest. In large fields, cover and bury debris by deep plowing.
+- **Crop Rotation:** Avoid planting tomatoes or related crops (e.g., eggplant, potatoes) in the same location for 1–2 years.
+- **Healthy Transplants:** Use disease-free transplants; rogue infected seedlings before planting.
+- **Watering Practices:** Avoid overhead watering; water early in the day to ensure leaves dry quickly. Avoid working with wet plants.
+- **Weed Control:** Eliminate weed hosts like nightshade and horsenettle.
+
+---
+
+**4. Treatment Options**
+
+**Physical Treatment:**
+- **Hot Water Treatment (HWT):** Treat tomato seeds at 48°C for 30 minutes to reduce disease severity and incidence. Improves germination and seedling vigor; offers a potential alternative to chemical fungicides.
+
+**Chemical Treatments:**
+- **Fungicides:** Use protectant fungicides such as chlorothalonil and mancozeb. Apply as soon as symptoms are observed; repeat as necessary.
+  - **Chlorothalonil:** Effective for controlling Septoria leaf spot; follow label instructions.
+  - **Mancozeb:** Similar application guidelines as chlorothalonil.
+
+**Organic Treatments:**
+- **Copper-Based Fungicides:** Use copper hydroxide or copper sulfate for organic control.
+- **Organic Mulch:** Apply a layer of organic mulch to reduce splashing of spores from the soil.
+
+**Induced Resistance:**
+- **Potassium Phosphite + L-α-Amino Acids:** Enhances tomato defense, reduces oxidative damage, maintains higher photosynthetic efficiency, and upregulates host defense genes.
+
+---
+
+**5. Impact on Yield**
+
+- **Defoliation:** Significant leaf loss reduces photosynthesis, lowering fruit yields.
+- **Sunscald:** Premature leaf drop exposes fruit to sunscald, affecting yield and quality.
+- **Complete Crop Loss:** In severe cases, crop losses can reach up to 100%.
+
+---
+
+**6. Disease-Resistant Crop Varieties**
+
+- **Resistant Varieties:** No commercial cultivars with complete resistance available, but some tomato lines show partial resistance and are used in breeding programs. Consult local extension services for resistant varieties.
+
+---
+
+**7. Environmental Factors**
+
+- **Weather:** Warm, wet, and humid conditions favor disease development and spread. Extended periods of leaf wetness increase risk.
+- **Soil Conditions:** Well-drained soils help reduce disease risk by preventing prolonged leaf wetness.
+
+---
+
+This structured format breaks down the information into well-defined sections, making it easier for the RAG model to index and retrieve relevant details based on user queries.

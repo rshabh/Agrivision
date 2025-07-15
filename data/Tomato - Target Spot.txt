@@ -1,0 +1,70 @@
+## Tomato - Target Spot
+
+### 1. Symptoms of Target Spot
+- **Early Stages:**
+  - Small, water-soaked spots appear on the lower leaves.
+  - Spots turn into circular or irregular brown spots with a target-like pattern.
+- **Advanced Stages:**
+  - Spots enlarge, merge, and cause premature yellowing and dropping of leaves.
+  - Lesions develop on stems, fruit, and petioles, leading to fruit rot.
+- **Leaf Symptoms:**
+  - Concentric rings within the spots, surrounded by a yellow halo.
+  - Dark, velvety fungal growth on the undersides of leaves.
+- **Stem and Fruit Symptoms:**
+  - Dark, sunken spots with a concentric ring pattern develop on stems and fruit.
+
+### 2. Disease Life Cycle
+- **Initial Infection:**
+  - Fungus *Corynespora cassiicola* survives in infected plant debris and soil.
+  - Spores are spread by wind, rain, and contaminated tools.
+- **Spread:**
+  - Most severe during warm, humid conditions (24°C to 30°C).
+- **Infection Process:**
+  - Spores germinate and penetrate the leaf surface, causing spots.
+  - Multiple cycles of spores can be produced during the growing season.
+- **Overwintering:**
+  - Fungus can survive on plant debris or in the soil, causing recurring infections.
+
+### 3. Preventive Measures
+- **Chemical Control:**
+  - **Fungicides:** Use azoxystrobin, mancozeb, and fumoxate to reduce disease severity.
+  - **SAR Activators:** Use Acibenzolar-S-methyl to reduce defoliation by 42%.
+- **Biological Control:**
+  - **Biocontrol Agents:** Use Trichoderma harzianum to inhibit related pathogens.
+- **Cultural and Physical Methods:**
+  - **Soil and Plant Management:** Improve soil properties with microbial fertilizers.
+  - **Crop Rotation:** Avoid planting tomatoes in the same area for consecutive seasons.
+  - **Resistant Varieties:** Use disease-resistant tomato varieties.
+  - **Hygiene:** Remove and destroy infected plant debris.
+  - **Mulching:** Apply mulch to prevent soil splash.
+  - **Irrigation:** Water early in the morning, use drip irrigation.
+
+### 4. Treatment Options
+- **Chemical Control:**
+  - Use fungicides containing chlorothalonil, mancozeb, or copper-based products.
+  - Apply at the first sign of disease; repeat as necessary.
+- **Organic Treatment:**
+  - Apply neem oil or sulfur-based sprays as preventive measures.
+  - Remove and destroy infected leaves.
+- **Integrated Management Strategies:**
+  - Combine chemical treatments with biological agents and environmental modifications.
+
+### 5. Impact on Yield
+- **Leaf Loss:**
+  - Severe infections lead to significant leaf loss, reducing photosynthesis.
+- **Fruit Quality:**
+  - Infected fruit may develop lesions and rot, becoming unmarketable.
+- **Yield Reduction:**
+  - Combined effects can lead to substantial yield losses.
+
+### 6. Disease-Resistant Crop Varieties
+- **Tomato Varieties:**
+  - Consult local agricultural extensions or seed suppliers for resistant varieties.
+
+### 7. Environmental Factors
+- **Weather Conditions:**
+  - Warm, humid conditions with frequent rainfall favor the disease.
+- **Soil Conditions:**
+  - Poorly drained soils or areas with high organic matter harbor the fungus.
+- **Microclimate:**
+  - Dense planting and poor air circulation increase the risk of disease.

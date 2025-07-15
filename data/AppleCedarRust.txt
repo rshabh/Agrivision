@@ -1,0 +1,62 @@
+**Cedar Apple Rust**
+
+**1. Disease Overview:**
+   - **Description:** Cedar Apple Rust (*Gymnosporangium juniperi-virginianae*) is a fungal disease affecting apple trees and related species, requiring two host plants: juniper trees (family Cupressaceae) and apple/crabapple trees (family Rosaceae). It is known for orange-red spots on leaves and sometimes fruit, causing aesthetic damage and potential crop loss.
+   - **Affected Crops:** Primarily affects apple and crabapple trees, and occasionally hawthorn and serviceberry.
+
+**2. Symptoms of Cedar Apple Rust:**
+   - **Leaf Symptoms:**
+     - **Early Stage:** Small, pale yellow pinhead-sized spots on the upper surface of leaves.
+     - **Advanced Stage:** Spots enlarge to bright orange-yellow with red borders. 
+     - **Fungal Tubes:** Short, finger-like tubes on the lower surface of leaves, releasing yellow to orange spores.
+   - **Fruit Symptoms:**
+     - **Appearance:** Green to brown irregular spots with black dots; affects fruit quality and marketability.
+   - **Branch Symptoms:**
+     - **Galls:** Reddish-brown galls on infected junipers that swell and produce orange, gelatinous structures in wet weather.
+
+**3. Disease Life Cycle:**
+   - **Overwintering:** Galls on junipers and red cedar trees overwinter and remain reddish-brown.
+   - **Spore Release:** In early spring, galls produce bright orange fungal growths that release spores to Rosaceae plants.
+   - **Infection:** Spores infect leaves and fruit on Rosaceae plants, potentially reinfecting junipers or red cedars.
+   - **Seasonal Changes:** Galls rehydrate and dry out multiple times; spores are produced during wet periods and cease in warm, dry weather. Galls die after one season, while cankers and broom rust can remain dormant.
+
+**4. Preventive Measures:**
+   - **Cultural Practices:**
+     - **Eliminate Alternate Hosts:** Remove junipers within a 5 km radius of apple orchards to disrupt the rust fungus lifecycle.
+     - **Historical Precedents:** Laws like Miller v. Schoene reflect the economic importance of apple orchards.
+   - **Chemical Treatments:**
+     - **Fungicides:** Use fenarimol and triforine post-infection; they reduce pycnial formation with control rates up to 100%.
+     - **Internal Absorption Compounds:** Bactericides with internal absorption offer effective control and reduce environmental impact.
+   - **Plant Resistance:**
+     - **Flavonoid Accumulation:** Flavonoids like anthocyanin and catechin enhance rust resistance; breeding programs focus on these traits.
+   - **Crop Rotation & Host Management:**
+     - Avoid planting eastern red cedar and juniper near susceptible Rosaceae plants.
+     - Regularly inspect and prune infected junipers and red cedars.
+   - **Hygiene:** 
+     - Remove and dispose of infected plant material; prune infected twigs or branches from Rosaceae plants.
+   - **Cultural Controls:** Manage minor infections to prevent significant leaf loss.
+
+**5. Treatment Options:**
+   - **Chemical Control:**
+     - **Fungicides:** Fenarimol and triforine offer effective control. Fenarimol at 20-40 µg/ml provides 96-99% control; triforine at 240 µg/ml offers 80-83% control.
+   - **Cultural Practices:**
+     - **Removal of Alternate Hosts:** Historically enforced in regions like Virginia to protect apple orchards.
+   - **Genetic Resistance:**
+     - **Breeding for Resistance:** Genetic variability in apple cultivars; some exhibit natural resistance controlled by major genes.
+
+**6. Impact on Yield:**
+   - **Fruit Quality:** External rust symptoms reduce marketability; interior of fruit usually remains unaffected.
+   - **Yield Reduction:** Extensive leaf infections cause premature leaf drop, reducing photosynthesis and fruit yield.
+
+**7. Environmental Factors:**
+   - **Weather Conditions:**
+     - **Temperature and Moisture:** Thrives in temperatures between 52°F and 77°F (11°C to 25°C) with wet conditions for spore germination.
+     - **Moisture:** Teliospores need soaking for spore production; wet conditions are essential for infection.
+   - **Light Conditions:** UV light affects basidiospore survival; cloudy conditions may favor rust persistence.
+   - **Soil and Environmental Conditions:**
+     - Thrives where cedar and apple trees coexist, often in high humidity and frequent rainfall areas.
+     - Proper soil drainage is crucial; avoid waterlogged soils.
+
+**8. Rust Fungi Overview:**
+   - Cedar apple rust requires two host plants from different families. The interaction between junipers and Rosaceae plants complicates disease management.
+

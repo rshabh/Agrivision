@@ -1,0 +1,123 @@
+**Strawberry Leaf Scorch Diseases - Overview**
+
+### 1. Symptoms of Each Disease
+
+**a. Leaf Spot (Mycosphaerella fragariae)**  
+- **Early Symptoms:**  
+  - Circular, deep purple spots on the upper surfaces of leaves.
+  - Small, distinct spots initially.
+- **Progression:**  
+  - Spots enlarge, centers turn grayish to white.
+  - Younger leaf spots become light brown, bordered by reddish-purple to rusty brown.
+  - Superficial black spots may form on fruit, typically around groups of seeds, with each spot being about ¼ inch in diameter.
+  - Severe infections increase the number of spots.
+
+**b. Leaf Scorch (Diplocarpon earliana)**  
+- **Early Symptoms:**  
+  - Numerous small, irregular, purplish spots or blotches on the upper leaf surface.
+- **Progression:**  
+  - Centers of blotches become brownish.
+  - Blotches merge, causing the leaf to turn purplish to reddish-brown.
+  - Infected petals may wither and fall.
+  - Lesions on fruit stalks (peduncles) may girdle them, leading to fruit death.
+
+**c. Leaf Blight (Phomopsis obscurans)**  
+- **Early Symptoms:**  
+  - Initial signs include circular reddish-purple spots on leaflets, typically along major veins.
+- **Progression:**  
+  - Lesions enlarge into V-shaped patterns with a light brown inner zone and dark brown outer zone.
+  - Lesions can spread, causing the leaflet to turn brown.
+  - Severe cases may affect stolons (runners), fruit trusses, and petioles, potentially leading to stem girdling and death.
+
+### 2. Disease Life Cycle
+
+**Leaf Spot**  
+- **Overwintering:**  
+  - Mycosphaerella fragariae overwinters in dead leaves and infected plant debris, with spores remaining viable in residues.
+- **Development:**  
+  - During early summer, the fungus produces new spores in leaf lesions.
+  - Spores spread by rain, infecting healthy leaves.
+  - Middle-aged leaves are most susceptible.
+
+**Leaf Scorch**  
+- **Overwintering:**  
+  - Diplocarpon earliana survives on infected leaves and debris, remaining active in decomposing foliage and overwintering strawberries.
+- **Development:**  
+  - In spring, spore-producing structures form on old leaves.
+  - Spores spread by water and wind, with rapid disease spread in wet conditions.
+  - Older and middle-aged leaves are more susceptible.
+
+**Leaf Blight**  
+- **Overwintering:**  
+  - Phomopsis obscurans survives as mycelium or fruiting bodies on old leaves attached to plants.
+- **Development:**  
+  - Spores are released in early spring and spread by rain.
+  - The fungus is most destructive to older leaves during late summer.
+  - Spores can also infect petioles, calyxes (flower caps), and fruit.
+
+### 3. Preventive Measures
+
+**Cultural and Chemical Control**  
+- Apply chemical fungicides or microbial agents during late summer and fall (August to October).
+- Use a mixture of Chinese herbal medicine extracts, copper sulfate, and fosetyl-aluminum in culture soil to prevent leaf blight and reduce pathogen resistance.
+  
+**Genetic Resistance**  
+- Focus on breeding resistant genotypes.
+- Cultivars like Vantage and Scotland show resistance to leaf scorch.
+
+**Crop Rotation**  
+- Rotate strawberries with non-host crops (e.g., legumes, grains) to reduce pathogen buildup.
+- Avoid planting strawberries in the same location year after year.
+
+**Resistant Varieties**  
+- **For Leaf Spot and Leaf Scorch:**  
+  - June-bearing: Allstar, Canoga, Cardinal, Delite, Earliglow, Honeoye, Jewell, Lester, Midway, Redchief.
+  - Everbearing: Tribute, Tristar.
+
+**Hygiene**  
+- Remove older, infected leaves before planting new ones.
+- Space plants adequately for good air circulation.
+- Control weeds to reduce moisture retention around plants.
+- After harvest, remove infected leaves and plant debris to lower inoculum levels.
+
+### 4. Treatment Options
+
+**Chemical and Microbial Treatments**  
+- Apply treatments in August, September, and October for optimal control.
+- Optimize fungicide use based on the severity of the disease (AUDPC values).
+  
+**Cultivar Selection**  
+- Select resistant cultivars to reduce leaf scorch impact on growth and yield.
+- **For Leaf Spot and Leaf Scorch:**  
+  - Resistant: 'Jewel', 'Blomidon'.
+  - Susceptible: 'Kent'.
+  
+**Organic Treatments**  
+- **For Leaf Spot and Leaf Scorch:**  
+  - Use compost tea, neem oil, or other natural fungicides.
+- **For Leaf Blight:**  
+  - Emphasize cultural practices, as organic treatments are limited.
+
+### 5. Impact on Yield
+
+- **Leaf Spot:** Reduces overall leaf area, weakening the plant, making it more susceptible to root diseases, and lowering fruit yield.
+- **Leaf Scorch:** Decreases leaf vigor, reducing photosynthesis, fruit yield, and quality. Infected leaves may turn brown and fall off.
+- **Leaf Blight:** Causes extensive leaf drop and can infect fruit trusses, leading to potential economic losses.
+
+### 6. Disease-Resistant Crop Varieties
+
+- **For Leaf Spot and Leaf Scorch:**  
+  - Resistant varieties include Allstar, Canoga, Cardinal, Delite, Earliglow, Honeoye, Jewell, Lester, Midway, Redchief (June-bearing), Tribute, and Tristar (everbearing).
+  
+- **For Leaf Blight:**  
+  - No specific resistant varieties. Focus on cultural practices and chemical treatments.
+
+### 7. Environmental Factors
+
+- **Weather Conditions:**  
+  - Leaf diseases thrive under prolonged wetness and high humidity.
+  - Warm temperatures and frequent rainfall can exacerbate disease spread.
+
+- **Soil Conditions:**  
+  - Well-drained soil with good air circulation reduces disease incidence.
+  - Avoid poorly drained areas and overhead irrigation, as they increase humidity around plants.

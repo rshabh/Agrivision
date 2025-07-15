@@ -1,0 +1,46 @@
+**Gray Leaf Spot on Corn**
+
+### 1. Description and Affected Crops
+- **Description**: Gray leaf spot (GLS) is a foliar disease caused by the fungus *Cercospora zeae-maydis*. It is prevalent in the U.S. corn belt, causing necrotic lesions on corn leaves and leading to significant yield loss. GLS thrives in high humidity and warm temperatures, particularly in fields with high corn residue and continuous corn rotations.
+- **Affected Crops**: Corn is the only host for *Cercospora zeae-maydis*. The disease does not affect other crops.
+
+### 2. Symptoms
+- **Early Symptoms**: Small, dark necrotic spots with chlorotic halos, visible more clearly when leaves are backlit. Lesions expand into rectangular patches (1/8 inch wide, 2-3 inches long) with gray to brown coloration and distinct parallel edges.
+- **Later Symptoms**: Lesions become blocky, limited by leaf veins, turning gray and merging, leading to large areas of necrotic tissue. Severe infections can cause entire leaves to die, affecting photosynthesis.
+
+### 3. Disease Life Cycle
+- **Development and Spread**: The pathogen overwinters in corn debris. Infection starts in high humidity (above 95%) and warm temperatures (70-90°F or 25-32°C). Spores are spread by wind and rain, with rapid disease progression in warm, humid weather. Significant damage often occurs late in the season.
+
+### 4. Preventive Measures
+- **Genetic Resistance**:
+  - **Signaling Pathways**: The ZmWAKL-ZmWIK-ZmBLK1-ZmRBOH4 module enhances disease resistance by generating reactive oxygen species (ROS) upon pathogen detection.
+  - **Resistance Genes**: The ZmWAK02 gene, a major resistance QTL, improves resistance and grain yield under GLS pressure.
+- **Cultural Practices**:
+  - **Crop Rotation and Soil Management**: Rotate crops, deep ploughing, and avoid continuous maize cropping. Use maize straw as fuel or compost.
+  - **Intercropping and Fertilization**: Intercrop with soybeans, wheat, or peanuts, and use balanced fertilizers. Ensure proper irrigation and drainage.
+- **Chemical Treatments**:
+  - **Fungicides**: Apply fungicides like carbendazim or mancozeb at the right time. Consider nutrient solutions containing diammonium hydrogen phosphate and potassium sulfate.
+
+### 5. Treatment Options
+- **Chemical Control**:
+  - **Fungicides**: Effective combinations like fluxapyroxad, pyraclostrobin, and mefentrifluconazole achieve up to 72.8% control efficacy.
+- **Genetic Resistance**: Utilize ZmWAKL-ZmWIK-ZmBLK1-ZmRBOH4 module and ZmWAK02 gene in breeding programs.
+- **Cultural Practices**: Implement crop rotation, deep ploughing, and proper fertilization.
+
+### 6. Impact on Yield
+- **Yield Impact**: Gray leaf spot reduces yield by decreasing photosynthesis and carbohydrate production, particularly affecting kernel number and weight. Severe infections near pollination can lead to significant yield loss.
+
+### 7. Disease-Resistant Crop Varieties
+- **Resistant Varieties**: Use corn hybrids with high resistance ratings to GLS. For example, Pioneer® hybrids are screened in high disease pressure areas.
+
+### 8. Environmental Factors
+- **Weather**: GLS thrives in high humidity (above 90%) and warm temperatures (70-90°F or 25-32°C). Extended leaf wetness due to dew, rain, or irrigation facilitates infection.
+- **Soil Conditions**: High corn residue and minimum tillage systems increase disease risk.
+
+### 9. Farming Considerations
+- **Cultural Practices**: Reduce corn residue through tillage, rotate crops, and select disease-resistant hybrids.
+- **Fungicides**: Use based on economic thresholds and disease pressure.
+
+### 10. Residue Management
+- **Residue Management**: Manage corn debris through crop rotation and tillage. Fields with high residue levels (over 30%) are at higher risk, while fields with lower residue levels (10%) may still be at risk depending on hybrid tolerance and disease pressure.
+

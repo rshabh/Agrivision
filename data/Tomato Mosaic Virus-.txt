@@ -1,0 +1,102 @@
+**Tomato Mosaic Virus (ToMV) Overview**
+
+---
+
+### 1. **Symptoms of Tomato Mosaic Virus**
+
+#### **Initial Symptoms:**
+- **Mosaic Patterns:** Light and dark green patches on leaves creating a mottled effect.
+- **Leaf Distortion:** Leaves may become crinkled, curled, or twisted.
+- **Stunted Growth:** Infected plants show reduced growth, with shorter internodes.
+
+#### **Advanced Symptoms:**
+- **Fruit Deformities:** Brown streaks or spots on fruits; uneven ripening.
+- **Reduced Fruit Set:** Fewer fruits, leading to lower yields.
+- **Yellowing:** Leaves may turn yellow, especially along the veins.
+
+---
+
+### 2. **Disease Life Cycle**
+
+#### **Transmission:**
+- **Seed Transmission:** Virus present in the seed coat can spread to seedlings.
+- **Mechanical Transmission:** Spread via human activities (handling infected plants, tools, clothing).
+
+#### **Infection Process:**
+- **Initial Infection:** Virus enters through wounds or natural openings.
+- **Spread Within the Plant:** Moves cell-to-cell via the vascular system.
+
+#### **Survival and Overwintering:**
+- **Infected Debris:** Survives in plant debris, soil, and on contaminated tools.
+- **Dormant in Seeds:** Remains dormant in seeds, becoming active under favorable conditions.
+
+---
+
+### 3. **Preventive Measures**
+
+#### **Chemical Compounds:**
+- **N-Heterocyclic Compounds:** Reduces symptoms of PepMV in tomatoes by enhancing antioxidant enzyme activity.
+  
+#### **Innovative Material-Based Approaches:**
+- **Ningnanmycin & Nano-Particle Compound Wires:** Effective in solar greenhouses, keeping the disease occurrence rate below 5%.
+
+#### **Nanoparticle Applications:**
+- **Silver Nanoparticles (Ag-NPs):** Demonstrates antiviral activity against TMV, reducing virus accumulation and enhancing plant defenses.
+
+#### **Biological and Natural Compounds:**
+- **Natural Compounds & Beneficial Microorganisms:** Induces systemic resistance and improves plant growth.
+
+#### **Crop Rotation:**
+- **Avoid Replanting:** Rotate with non-host crops to reduce soil-borne virus persistence.
+
+#### **Resistant Varieties:**
+- **ToMV-Resistant Varieties:** Use resistant or tolerant varieties to limit virus replication.
+
+#### **Hygiene Practices:**
+- **Tool Disinfection:** Regularly disinfect tools and hands.
+- **Avoid Handling When Wet:** Virus spreads easily in moisture.
+
+---
+
+### 4. **Treatment Options**
+
+#### **Chemical Treatments:**
+- **Ribavirin & 8-Azaguanine:** Lowers disease severity without eliminating the virus.
+  
+#### **Biological Treatments:**
+- **Microalgae & Beneficial Microorganisms:** Reduces disease severity and induces systemic resistance.
+
+#### **Physical Treatments:**
+- **Thermotherapy:** Dry-heat baking of seeds reduces virus infection.
+
+#### **Cultural Practices:**
+- **Rogueing:** Remove and destroy infected plants.
+- **Sanitation:** Maintain clean cultivation practices.
+
+---
+
+### 5. **Impact on Yield**
+
+- **Yield Reduction:** Reduced fruit production, smaller fruits, leading to a 20-40% yield decrease.
+- **Quality Degradation:** Compromised fruit quality, lower market value.
+
+---
+
+### 6. **Disease-Resistant Crop Varieties**
+
+- **Resistant Varieties:** 'Celebrity,' 'Roma VF,' 'Amelia,' and 'Sunbeam' show resistance or tolerance to ToMV.
+
+---
+
+### 7. **Environmental Factors Influencing Virus Occurrence**
+
+#### **Weather Conditions:**
+- **Temperature:** Higher temperatures (above 30°C) may reduce symptom severity.
+- **Humidity:** High humidity levels can exacerbate virus spread.
+
+#### **Soil Conditions:**
+- **Soil Health:** Balanced nutrients and good organic matter content support plant resistance.
+
+#### **Cultural Practices:**
+- **Irrigation:** Drip irrigation preferred to minimize virus spread.
+- **Plant Spacing:** Adequate spacing reduces the risk of virus spread.

@@ -1,0 +1,56 @@
+**Cherry Powdery Mildew Overview**
+
+**1. Description:**
+   - **Cherry Powdery Mildew** is caused by the fungus *Podosphaera clandestina*. This obligate biotrophic pathogen affects both sweet and sour cherry trees (*Prunus avium* and *Prunus cerasus*), characterized by white, powdery fungal growth on cherry surfaces. The disease reduces fruit marketability and impacts overall orchard health.
+
+**2. Affected Crops:**
+   - Sweet and sour cherries.
+   - Other Prunus species can also be affected, but sweet cherries are more commonly impacted.
+
+**3. Symptoms:**
+   - **Leaf Symptoms:**
+     - **Early Stage:** Light, roughly-circular, powdery patches on young, susceptible leaves, mostly visible on newly unfolded and light green expanding leaves.
+     - **Progression:** Leaves may become distorted, curling upward, and severe infections can cause puckering and twisting. Infected leaves often become smaller and paler.
+   - **Fruit Symptoms:**
+     - **Early Infection:** Initial infections are hard to identify, starting at the stem’s connection to the fruit. Early fungal growth may need a hand lens to detect.
+     - **Appearance:** Advanced infections result in white, powdery fungal growth on fruit, affecting appearance and marketability.
+   - **Branch Symptoms:** While primarily affecting leaves and fruit, high humidity and poor air circulation can exacerbate fungal spread throughout the canopy.
+
+**4. Disease Life Cycle:**
+   - **Overwintering:** *P. clandestina* produces chasmothecia on senescent leaves or in tree crotches during fall.
+   - **Spore Release:** In spring, chasmothecia release ascospores during wet conditions, initiating primary infections.
+   - **Primary and Secondary Infections:** Wind spreads ascospores, leading to primary infections on young leaves. Secondary infections arise from asexual spores produced during primary infections.
+   - **Seasonal Cycle:** By early fall, new chasmothecia are produced for overwintering. 
+
+**5. Preventive Measures:**
+   - **Chemical Control:**
+     - **Fungicides:** Synthetic fungicides are commonly used but must be managed to avoid resistance. L-azetidine-2-carboxylic acid is an alternative with excellent preventive effects.
+   - **Biological Control:**
+     - **Bayesian Olin Mites:** Effective in preventing and treating powdery mildew by releasing mites to reduce disease incidence.
+   - **Cultural Practices:**
+     - **Training Systems and Rootstocks:** Training systems and rootstocks like Edabriz can influence mildew severity. 
+     - **Cultivar Selection:** Choosing resistant cultivars, such as Regina, can reduce infection rates.
+   - **Green Methods:**
+     - **Natural Sprays:** Using warm water with pyroligneous liquor, bacillus microbial bactericides, and chitosan helps control mildew with minimal chemical use.
+
+**6. Treatment Options:**
+   - **Synthetic Fungicides:** Sterol demethylation inhibitors (DMIs) like fenarimol, myclobutanil, and tebuconazole effectively reduce mildew. Combinations such as difenoconazole with cyprodinil show excellent control.
+   - **Biological and Organic Treatments:**
+     - **Biological Fungicides:** Streptomyces lydicus can reduce disease severity when used with synthetic fungicides.
+     - **Organic Treatments:** Paraffinic oil, sulfur, and nutrient cocktails lower disease severity. Palmolive® detergent has shown effectiveness comparable to myclobutanil but may cause fruit russetting.
+   - **Cultural Practices:** Open canopy pruning, training systems, rootstocks, and selecting mildew-resistant cultivars can reduce disease incidence.
+
+**7. Impact on Yield:**
+   - **Fruit Quality:** Powdery mildew affects cherry appearance, reducing marketability and value.
+   - **Yield Reduction:** Severe infections reduce photosynthetic activity, leading to lower fruit yield, particularly in commercial orchards.
+
+**8. Environmental Factors:**
+   - **Weather Conditions:** Thrives in warm temperatures (70°F to 80°F) with high humidity. Favors high humidity for spore germination and fungal growth.
+   - **Humidity:** Warm, dry temperatures with high humidity (morning fog or dew) create optimal conditions for disease increase.
+
+**9. Survival and Spread:**
+   - The fungus survives in overwintering structures on senescent leaves and tree crotches. Spores are released in spring and spread by wind, leading to primary and secondary infections.
+
+**10. Cherry Powdery Mildew Management:**
+   - Understanding the disease lifecycle, environmental conditions, and applying preventive and treatment measures are essential. The Gubler-Thomas Powdery Mildew Risk Index Model can be adapted to optimize spray timings and improve disease management.
+
