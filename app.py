@@ -469,7 +469,7 @@ def create_summary(weather_data, period_name):
 
 
 # API Key
-api_key = 'M47UVGQR6MBEMYSBXEJPTEYFE'  # Replace with your Visual Crossing API key
+api_key = '' 
 
 # ---------------------------------------------------------------------------------------------------------
 
